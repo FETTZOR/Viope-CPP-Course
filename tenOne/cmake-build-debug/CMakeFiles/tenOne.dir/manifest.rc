@@ -1,0 +1,2 @@
+#pragma code_page(65001)
+1 /* CREATEPROCESS_MANIFEST_RESOURCE_ID */ 24 /* RT_MANIFEST */ "C:/Users/emili/CLionProjects/tenOne/cmake-build-debug/CMakeFiles/tenOne.dir/embed.manifest"
